@@ -1,0 +1,18 @@
+##########
+#        #
+#        #
+#        #
+     #####
+#        #
+#        #
+#        #
+#        #
+##### ####
+
+HealingPotion,1,8
+Thief,5,2
+Door,9,2,room3,1,2,KEY1
+Door,0,4,room0,1,1,KEY0
+Door,5,9,room2,7,1,KEY2
+Door,9,6,room3,1,6,KEY3
+Key,2,2,KEY1
