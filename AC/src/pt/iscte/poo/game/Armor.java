@@ -3,6 +3,10 @@ package pt.iscte.poo.game;
 import java.util.List;
 import pt.iscte.poo.utils.Point2D;
 
+/*
+An object that the hero can pick catch and add to his iventory giving the hero
+a chance to avoid taking damage
+*/
 public class Armor extends GameElement implements Items {
 
     public Armor(Point2D position) {
